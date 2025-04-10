@@ -1,0 +1,2 @@
+WDIData.csv filter=lfs diff=lfs merge=lfs -text
+tp.ipynb filter=lfs diff=lfs merge=lfs -text
